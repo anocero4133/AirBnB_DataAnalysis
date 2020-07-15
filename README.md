@@ -1,6 +1,6 @@
 # AirBnB_DataAnalysis
 
-Contributers:
+contributors:
 Austin Nocero,
 Cameron Smith,
 Sravani Yerramaneni
